@@ -1,0 +1,271 @@
+.main
+{
+    height: 1500px;
+    width: 1500px;
+    overflow: auto;
+}
+
+#userlist
+{
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+
+.top
+{
+    display: flex;
+}
+
+.topimg
+{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.renee
+{
+    display: flex;
+    margin-left: 900px;
+}
+
+.bordertop
+{
+    border-top: 1px solid #dbdbdb;
+}
+
+.userprofile
+{
+   margin-left: 20px;
+   margin-top: 25px;
+}
+
+
+
+.leftcolumn
+{
+    display: flex;
+  
+}
+
+
+.icon
+{
+    border: 1px solid #f7f7f7;
+    background-color: #f7f7f7;
+    padding: 10px 10px 1000px 10 ;
+    /* position: fixed; */
+    margin-bottom: 100px;
+   
+}
+
+.myicon
+{
+padding-top: 20px;
+}
+
+.content
+{
+    margin-left: 100px;
+}
+#userlist
+{
+    margin-left: 30px;
+}
+
+.outerbox
+{
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 890px;
+    padding-left: 5px;
+    border-radius: 50px;
+}
+
+.search
+{
+    border: none;
+    height: 100%;
+    width: 300px;
+    padding: 5px;
+    
+    border-radius: 50px;
+    font-size: 15px;
+}
+.search:focus
+{
+  outline:none;
+}
+
+.maintable
+{
+    margin-top:40px ;
+  }
+
+  #table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 1000px;
+    margin-right: 300px;
+    margin-left: 20px;
+    color: black;
+  }
+
+th
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    background-color: #e3e5e8;
+    text-align: left;
+  }
+
+  #th
+  {
+      text-align: center;
+      
+  }
+ 
+
+ .td
+ {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left ;
+
+ } 
+ .td1
+ {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center ; 
+ }
+ 
+ .details
+ {
+     display: flex;
+     margin-top: 80px;
+ } 
+
+  
+.details2
+{
+    margin-left: 500px;
+    /* color: #8a8a8a; */
+}
+
+.details1
+{
+    margin-left: 20px;
+}
+
+body
+{
+    color: #6b6b6b;
+   
+}
+
+.formborder
+{
+    border-top: 1px solid #dbdbdb;
+}
+
+#input
+{
+ margin: 20px;  
+ padding:10px;
+ width: 300px;
+ font-size: large;
+}
+
+.select
+{
+    margin: 20px ;
+    padding: 10px;
+    width: 300px;
+}
+
+.check
+{
+    margin: 20px 5px 20px 20px;
+    cursor: pointer;
+  }
+
+  #span
+  {
+      font-size: larger;
+  }
+
+  .outform
+  {
+      display: flex;
+  }
+  .rightform
+  {
+      margin-left: 70px;
+  }
+
+  #profile
+  {
+      margin-top: 20px;
+      cursor: pointer;
+  }
+
+  .formborder2
+  {
+    border-top: 1px solid #dbdbdb;
+    width: 220px;
+  }
+
+  #profilebtn
+  {
+      margin: 20px;
+      width: 160px;
+      padding: 5px;
+      border: none;
+      color: #6b6b6b;
+      font-size:medium;
+      cursor: pointer;
+  }
+
+  .lastborder
+  {
+      border: 1px solid #dbdbdb ;
+      width: 1000px;
+  }
+
+  #adduserbtn
+  {
+      margin: 20px;
+      background-color: #00bfa9;
+      border: none;
+      padding: 5px;
+      width: 150px;
+      color: cornsilk;
+      cursor: pointer;
+  }
+
+  #Cancelbtn
+  {
+    margin: 20px 20px 20px 0px;
+    border: none;
+    padding: 5px;
+    width: 150px;
+    cursor: pointer;
+  }
+  #set
+  {
+      text-decoration: none;
+      color: #6b6b6b;
+      font-size: 18px;
+  }
+
+  #set:hover
+  {
+      color: red;
+  }
+
+ 
